@@ -7,5 +7,5 @@ fun main(args: Array<String>) {
     val cols = scan.nextInt()
     val m = Matrix(rows, cols)
 
-    var comp = Complex(2,3)
+    var comp = Complex(2.0,3.0)
 }
